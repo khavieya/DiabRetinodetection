@@ -5,3 +5,5 @@ How to use the code?
 2. Add your dataset if you want to try
 3. Run the model with your RAM/GPU in place for fast processing.
 4. Tweak for your algorithm using CNN for better accuracy
+   Sample datasets are loaded in zip folder
+   
